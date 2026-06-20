@@ -16,7 +16,7 @@ Interactive Power BI Dashboard
 ## Skills Demonstrated: 
 **SQL**: INNER JOIN, GROUP BY, CTEs, Window Functions, LAG(), Running Totals, Revenue Contribution Analysis, Pareto Analysis, Customer Analytics, Time Series Analysis.
 
-**Powwer BI**: Data Modeling, Relationships, DAX Measures, KPI Reporting, Interactive Dashboards, Bar Charts, Line Charts, Pie Charts, Scatter Plots, Slicers
+**Power BI**: Data Modeling, Relationships, DAX Measures, KPI Reporting, Interactive Dashboards, Bar Charts, Line Charts, Pie Charts, Scatter Plots, Slicers
 
 
 ## 🎯 Business Questions
@@ -97,7 +97,7 @@ Identified:
   * Revenue contribution by customer
 using ranking and aggregation techniques.
 
-**6. Cusomter Contentration Analysis**
+**6. Customer Contentration Analysis**
 Calculated cumulative revenue contribution to evaluate revenue concentration among customers.
 
 **7. Customer Recency Analysis**
@@ -136,7 +136,7 @@ The Power BI dashboard provides an interactive overview of business performance.
   * Revenue Distribution is highly skewed with small group of customers contributing disproportionately to sales.
   * Most customes make relatively few purchases.
 **Logistics**
-  * Total Freight Charfes exceeded 2.25M.
+  * Total Freight Charges exceeded 2.25M.
   * Freight charges do not appear to be determined solely by product size, indicating additional factors like distance and shipping conditions.
 
 
