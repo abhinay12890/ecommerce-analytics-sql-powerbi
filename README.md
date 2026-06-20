@@ -48,7 +48,7 @@ This project answers the following business questions:
 
 ## 📂 Dataset
 
-The project uses the Olist Brazilian E-Commerce Dataset containing:
+The project uses the Olist Brazilian [E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download) containing:
 
   * ~100,000 Orders
   * ~96,000 Customers
