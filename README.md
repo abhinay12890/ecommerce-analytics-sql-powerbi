@@ -141,7 +141,12 @@ The Power BI dashboard provides an interactive overview of business performance.
   * Total Freight Charges exceeded 2.25M.
   * Freight charges do not appear to be determined solely by product size, indicating additional factors like distance and shipping conditions.
 
-## Recomendations
+## Business Recommendations
+* Maintain inventory in São Paulo (SP) while expanding targeted marketing in RJ and MG to diversify revenue sources.
+* Retain high-value customers through loyalty programs and targeted offers to maximize customer lifetime value.
+* Focus on top-performing product categories while optimizing pricing or assortment for low-performing categories.
+* Increase repeat purchases through personalized promotions and post-purchase engagement, as orders are nearly equal to customers.
+* Optimize freight costs by analyzing factors beyond product weight, such as shipping distance and carrier selection.
 
 
 
