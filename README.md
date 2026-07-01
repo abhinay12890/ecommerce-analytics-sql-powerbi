@@ -131,12 +131,17 @@ The Power BI dashboard provides an interactive overview of business performance.
 **Revenue Performance**
   * Generated over 13.5M in revenue from approximately 99k orders.
   * Average Order Value remained over 136.68
+    
 **Geographic Trends**
   * SP accounted for the highest share of both orders and revenue
   * Revenue Distribution is highly skewed with small group of customers contributing disproportionately to sales.
   * Most customes make relatively few purchases.
+    
 **Logistics**
   * Total Freight Charges exceeded 2.25M.
   * Freight charges do not appear to be determined solely by product size, indicating additional factors like distance and shipping conditions.
+
+## Recomendations
+
 
 
